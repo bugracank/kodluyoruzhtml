@@ -1,1 +1,1 @@
-# patikahtml
+# Patika Html İlk Ödev
